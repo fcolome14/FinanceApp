@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\bin\Debug\Proyecto4_Bolsa.exe.config
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\bin\Debug\Proyecto4_Bolsa.exe
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\bin\Debug\Proyecto4_Bolsa.pdb
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\bin\Debug\HtmlAgilityPack.dll
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\bin\Debug\HtmlAgilityPack.xml
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\obj\Debug\Proyecto4_Bolsa.csprojAssemblyReference.cache
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\obj\Debug\Proyecto4_Bolsa.Form1.resources
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\obj\Debug\Proyecto4_Bolsa.Properties.Resources.resources
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\obj\Debug\Proyecto4_Bolsa.csproj.GenerateResource.cache
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\obj\Debug\Proyecto4_Bolsa.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\obj\Debug\Proyecto4_Bolsa.csproj.CopyComplete
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\obj\Debug\Proyecto4_Bolsa.exe
+C:\Users\USUARIO\Documents\PROYECTOS C#\Proyecto4_Bolsa\Proyecto4_Bolsa\obj\Debug\Proyecto4_Bolsa.pdb
