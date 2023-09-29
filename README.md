@@ -1,8 +1,8 @@
 ## Finance App
 
-Desktop application which permits the user to checkout different stock markets around the world are evolving in real time.
+Desktop application which permits the user to checkout how different stock markets around the world are evolving in real time.
 
-> Note: Personal project to put in practice web scrapping techniques in Microsoft Visual Studio C#
+> Note: Personal project to put in practice web scrapping techniques using Microsoft Visual Studio C#
 
 <p align="center">
   <picture>
