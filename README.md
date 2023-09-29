@@ -6,7 +6,7 @@ Desktop application which permits the user to checkout different stock markets a
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./documentation_images/Start.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset="./documentation_images/Stock_market2.jpg">
     <img src="./documentation_images/Stock_market2.jpg">
   </picture>
 </p>
@@ -39,5 +39,5 @@ Also it is possible to filter a company name by uusing the search tool above
 
 # Libraries
 
-This project has been mainly developed by using the ```HtmlAgilityPack``` to scrap from the [data source](https://www.expansion.com/mercados.html) website
+This project has been developed by using the ```HtmlAgilityPack``` to scrap data from a [source](https://www.expansion.com/mercados.html) website
 
