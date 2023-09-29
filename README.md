@@ -14,9 +14,9 @@ Desktop application which permits the user to checkout different stock markets a
 # Description
 
 Once the desktop application has been executed, the program will show a first empty window. The stock markets 
-can be selected on scroll menu in the left side of the application.
+can be then selected on a scroll menu located in the left side of the application.
 
-Being the possible options:
+Being the possible stock market options:
 
 - [IBEX35](https://en.wikipedia.org/wiki/IBEX_35)
 - [EUROSTOXX 50](https://en.wikipedia.org/wiki/EURO_STOXX_50)
@@ -27,8 +27,19 @@ Being the possible options:
 - [FTSE 100](https://en.wikipedia.org/wiki/FTSE_100_Index)
 - [EURONEXT 100](https://en.wikipedia.org/wiki/Euronext_100)
 
+And the values for each one:
 
-Also it is possible to filter a company name by uusing the search tool above
+- Valor: Company name 
+- Último: Price associated to the last closed trading session
+- Variación [%]: Variation of an asset to its previous price
+- Acumulado Anual: Cumulative change of a price respect last year
+- Máximo: Highest price for the actual trading session
+- Mínimo: Lowest price for the actual trading session
+- Volumen: Number of shares or contracts, measures the level of liquidity
+- Capitalización: Value of the company
+- Hora: Last time update
+
+Also it is possible to filter a company name by using the searching tool above and return back to the main table.
 
 <p align="center">
   <picture>
