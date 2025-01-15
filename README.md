@@ -2,7 +2,7 @@
 
 Sample desktop application which permits the user to checkout how different stock markets around the world are evolving in real time.
 
-> Note: Personal project to put in practice web scrapping techniques using Microsoft Visual Studio C# Windows Forms
+> Note: Personal project to put in practice web scrapping techniques using Microsoft Visual Studio C# and Windows Forms
 
 <p align="center">
   <picture>
@@ -50,5 +50,5 @@ Also it is possible to filter a company name by using the searching tool above a
 
 # Libraries
 
-This project has been developed by using ```HtmlAgilityPack``` to scrap data from [Expansión](https://www.expansion.com/mercados.html) website
+This project has been developed using ```HtmlAgilityPack``` to scrap data from [Expansión](https://www.expansion.com/mercados.html) website
 
