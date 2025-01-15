@@ -29,15 +29,15 @@ Being the possible stock market options:
 
 And the values for each one:
 
-- Valor: Company name 
-- Último: Price associated to the last closed trading session
-- Variación [%]: Variation of an asset to its previous price
-- Acumulado Anual: Cumulative change of a price respect last year
-- Máximo: Highest price for the actual trading session
-- Mínimo: Lowest price for the actual trading session
-- Volumen: Number of shares or contracts, measures the level of liquidity
-- Capitalización: Value of the company
-- Hora: Last time update
+- Valor (Value): Company name 
+- Último (Last): Price associated to the last closed trading session
+- Variación (Variation) [%]: Variation of an asset to its previous price
+- Acumulado Anual (Annual cumulative): Cumulative change of a price respect last year
+- Máximo (Max. stock price): Highest price for the actual trading session
+- Mínimo (Mín. stock price): Lowest price for the actual trading session
+- Volumen (Volume): Number of shares or contracts, measures the level of liquidity
+- Capitalización (Market cap.): Value of the company
+- Hora (Last update): Last time update
 
 Also it is possible to filter a company name by using the searching tool above and return back to the main table.
 
